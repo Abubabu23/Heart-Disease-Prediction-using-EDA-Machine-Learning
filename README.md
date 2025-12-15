@@ -53,12 +53,10 @@ EDA was performed to understand data patterns and key risk factors.
   <img width="575" height="407" alt="Image" src="https://github.com/user-attachments/assets/df9b0e55-1cfa-44a1-b03e-4cf6b3f65b8e" />
   
 - Bar charts
-- 
 <img width="534" height="387" alt="Image" src="https://github.com/user-attachments/assets/2b6df96f-bbfa-479c-b9d1-a5396498a3da" />
 <img width="600" height="376" alt="Image" src="https://github.com/user-attachments/assets/60853c85-40de-4650-8664-2876b109e6ea" />
 
 - Categorical comparisons
-- 
 <img width="524" height="371" alt="Image" src="https://github.com/user-attachments/assets/210eac35-3237-4641-8918-cff13fb57b20" />
 <img width="904" height="569" alt="Image" src="https://github.com/user-attachments/assets/ca077233-401e-4b35-aa4d-bf479d7e504f" />
 
